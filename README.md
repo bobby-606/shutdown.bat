@@ -1,4 +1,4 @@
-# This file is either for individuals who wants to time their windows pc shutdown, or those with really old computer systems that does not have a shutdown option to select
+# This file is either for individuals who wants to time their windows pc shutdown, or those with really old computer systems that does not have a selectable shutdown option
 Simply run the file and type in the desired seconds to delay the shudown ie. 0=immediate, 300=5minutes and 3600=1hour, 
 then you can either leave the countdown running and hide the window, or press any key again to void the timer and initiate an immediate shutdown
 
