@@ -12,4 +12,15 @@ echo Otherwise, just leave this window on until the time is up
 timeout /t %timer%
 shutdown /s
 ```
-you can do it yourself by running notepad, pasting the codes above and saving it as a .bat file
+## you can even do it yourself by opening a notepad, 
+![image](https://github.com/user-attachments/assets/49abb3fe-75fa-4ac5-84ce-de403dfe09eb)
+
+## pasting the codes above 
+
+![image](https://github.com/user-attachments/assets/1aa0f31b-d3d3-4724-ae26-4490f503b3c5)
+
+## and saving it as a .bat file
+
+![image](https://github.com/user-attachments/assets/b254a66c-1c82-4d09-83ec-dc5c0f2e1d57)
+
+![image](https://github.com/user-attachments/assets/3ff2e554-1027-479d-ab40-2b6fb37d463e)
